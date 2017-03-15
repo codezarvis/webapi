@@ -12,11 +12,11 @@
 
 	<distributionManagement>
 		<repository>
-			<id>qedgenexus</id>
+			<id>>qedgenexus</id>
 			<url>http://192.168.49.132:8080/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
-			<id>qedgenexus</id>
+			<id>>qedgenexus</id>
 			<url>http://192.168.49.132:8080/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
